@@ -21,9 +21,13 @@
 	height:100px;
 }
 #row-1{
+	height:20px;
 	background-color:green;
 }
 #row-3{
 	background-color:blue;
-	
+height:20px;	
+}
+#t-image{
+	text-align:center;
 }
